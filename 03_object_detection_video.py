@@ -11,7 +11,7 @@ import math
 
 # This opens your default webcam
 # object cap allows you to read video frames in real time.
-cap = cv2.VideoCapture(r'C:\Users\alokj\OneDrive\Documents\GitHub\Object_Detection\Dataset\bikes.mp4') 
+cap = cv2.VideoCapture(r'C:\Users\alokj\OneDrive\Documents\GitHub\Object_Detection\Dataset\cars.mp4') 
 
 # setting the Height and weidth of the cam
 # 3 is the property ID for width

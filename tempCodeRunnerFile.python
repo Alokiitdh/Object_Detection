@@ -1,0 +1,1 @@
+cvzone.cornerRect(img, (x1,y1,w,h), l=9, rt = 5)
